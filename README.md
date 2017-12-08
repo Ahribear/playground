@@ -1,6 +1,6 @@
 ## Welcome to my playground
 
-Placeholder
+title: Placeholder
 
 ### What is this?
 
