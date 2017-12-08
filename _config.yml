@@ -1,2 +1,7 @@
+#General settings
 theme: jekyll-theme-hacker
 remote_theme: Ahribear/playground
+
+#Custom stuff
+title: [The title of your site]
+description: [A short description of your site's purpose]
